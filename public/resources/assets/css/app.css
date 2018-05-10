@@ -1,0 +1,30 @@
+.date-header {
+    padding-top: 10px;
+}
+.nav-btns {
+    margin: 10px;
+}
+#messageModalFrom {
+    margin-top: 20px;
+}
+#messageModalDate {
+    margin-bottom: 20px;
+}
+.message-subject {
+    cursor: pointer;
+}
+.title-bar {
+    font-family: 'Righteous', cursive;
+}
+.title-bar h4 {
+    margin-top: 0.5rem;
+}
+.msg-container{
+    border: none !important;
+}
+@media (min-width: 576px) {
+    .msg-container{
+        border: 1px solid #6C757C !important;
+        margin-top: 15px;
+    }
+}
